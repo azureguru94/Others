@@ -3,225 +3,43 @@
         "count": {
             "type": "integer"
         },
-        "next": {}
-    },
-    "results": [
-        {
-            "content": "",
-            "description": "CC=BG ASN=AS44476 Zetta Hosting Solutions LLC.",
-            "id": 981688047,
-            "indicator": "185.176.43.84",
-            "title": null,
-            "type": "IPv4"
-        },
-        {
-            "content": "",
-            "description": "CC=BG ASN=AS44476 Zetta Hosting Solutions LLC.",
-            "id": 1562217738,
-            "indicator": "185.176.43.82",
-            "title": null,
-            "type": "IPv4"
-        },
-        {
-            "content": "",
-            "description": "CC=BG ASN=AS44476 Zetta Hosting Solutions LLC.",
-            "id": 2119295100,
-            "indicator": "185.176.43.96",
-            "title": null,
-            "type": "IPv4"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 2198135004,
-            "indicator": "saojoaodaurtigars.com.br",
-            "title": null,
-            "type": "domain"
-        },
-        {
-            "content": "",
-            "description": "CC=BG ASN=AS44476 Zetta Hosting Solutions LLC.",
-            "id": 2198163177,
-            "indicator": "185.176.43.94",
-            "title": null,
-            "type": "IPv4"
-        },
-        {
-            "content": "",
-            "description": "CC=BG ASN=AS44476 Zetta Hosting Solutions LLC.",
-            "id": 2229718390,
-            "indicator": "185.176.43.90",
-            "title": null,
-            "type": "IPv4"
-        },
-        {
-            "content": "",
-            "description": "CC=BG ASN=AS44476 Zetta Hosting Solutions LLC.",
-            "id": 2235314648,
-            "indicator": "185.176.43.80",
-            "title": null,
-            "type": "IPv4"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 2259361686,
-            "indicator": "armaghanteb.com",
-            "title": null,
-            "type": "domain"
-        },
-        {
-            "content": "",
-            "description": "CC=BG ASN=AS44476 Zetta Hosting Solutions LLC.",
-            "id": 2302283010,
-            "indicator": "185.176.43.98",
-            "title": "MalDoc",
-            "type": "IPv4"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 2808500512,
-            "indicator": "activate-suport-up-date-321i.eu3.biz",
-            "title": null,
-            "type": "hostname"
-        },
-        {
-            "content": "",
-            "description": "CC=BG ASN=AS44476 Zetta Hosting Solutions LLC.",
-            "id": 3112106227,
-            "indicator": "185.176.43.106",
-            "title": null,
-            "type": "IPv4"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3135738199,
-            "indicator": "avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion",
-            "title": null,
-            "type": "domain"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3355900691,
-            "indicator": "8xe3615-12-2019-up-date.eu3.org",
-            "title": null,
-            "type": "hostname"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3355900871,
-            "indicator": "activate-suport-up-date-i754.eu3.biz",
-            "title": null,
-            "type": "hostname"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3355900873,
-            "indicator": "adms-suport-up-datex8323.eu3.biz",
-            "title": null,
-            "type": "hostname"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3356086980,
-            "indicator": "alphabitconsulting.com",
-            "title": null,
-            "type": "domain"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3356086981,
-            "indicator": "centralinsumos.com.bo",
-            "title": null,
-            "type": "domain"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3356086982,
-            "indicator": "cercoselectricos.cl",
-            "title": null,
-            "type": "domain"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3356086983,
-            "indicator": "englishlessons-houston.com",
-            "title": null,
-            "type": "domain"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3356086984,
-            "indicator": "flammaautomoveis.com.br",
-            "title": null,
-            "type": "domain"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3356086985,
-            "indicator": "primage.com.br",
-            "title": null,
-            "type": "domain"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3356086986,
-            "indicator": "pwametalurgica.com.br",
-            "title": null,
-            "type": "domain"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3356086987,
-            "indicator": "quadteximagery.com",
-            "title": null,
-            "type": "domain"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3356086988,
-            "indicator": "saleswarriorinc.com",
-            "title": null,
-            "type": "domain"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3356086989,
-            "indicator": "i131dere-up-date.eu3.biz",
-            "title": null,
-            "type": "hostname"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3356086990,
-            "indicator": "jan-6543-up-date.eu3.biz",
-            "title": null,
-            "type": "hostname"
-        },
-        {
-            "content": "",
-            "description": null,
-            "id": 3357872966,
-            "indicator": "avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion",
-            "title": null,
-            "type": "domain"
+        "next": {},
+        "previous": {},
+        "results": {
+            "items": {
+                "properties": {
+                    "content": {
+                        "type": "string"
+                    },
+                    "description": {
+                        "type": [
+                            "string",
+                            "null"
+                        ]
+                    },
+                    "id": {
+                        "type": "integer"
+                    },
+                    "indicator": {
+                        "type": "string"
+                    },
+                    "title": {},
+                    "type": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "id",
+                    "indicator",
+                    "type",
+                    "title",
+                    "description",
+                    "content"
+                ],
+                "type": "object"
+            },
+            "type": "array"
         }
-    ],
+    },
     "type": "object"
 }
